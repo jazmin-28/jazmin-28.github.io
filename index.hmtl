@@ -1,0 +1,95 @@
+<html>
+  <head>
+    <!-- write your hero's name here in the <title> element  -->
+    <title>LeBron James</title>
+    <link rel="stylesheet" href="./style.css" type="text/css">
+    <head>
+    </head>
+
+
+    <body>
+
+      <div class="container">
+        <div class="jumbotron">
+          <div class="row">
+            <div class="col-xs-12">
+              <!-- Main Heading; Give the person's name; use <h1> -->
+              <h1 class="text-center">LeBron James</h1>
+              <!-- Subheading; use <h2>  -->
+              <h2 class="text-center">A Legend In Many Ways</h2>
+              <div>
+                <!-- place and image here; use an image already on the internet --> 
+                <div class="thumbnail"><img src="https://usatlebronwire.files.wordpress.com/2020/02/gettyimages-1199128962.jpg?w=1000&h=600&crop=1"
+
+                                            <!-- place a caption under your picture which explains the picture --> 
+                  <div class="caption text-center">   Lebron dunking.   </div>
+                </div>
+                <div>
+                  <!-- heading; use <h3>  -->
+                  <h3 class="text-center"> A brief explantion about LeBron</h3>
+                  <!-- write a paragraph explaining why your person is so great  -->
+                  <p> LeBron James Is amazing Athlete but not only that he is a wonderful person otside the game of basketball. LeBron has done so many graet things to give back to his comuitnty. He has built the I Promise School in his hometwon Akron, Ohio. He has given so much time to make that happend. James has been eight consecutive NBA finals appearence. LeBron James was one of the basketball players who skipped College and wnet straight to the NBA. Just like Kobe Bryant he was speical kid. Later in his rookie season he was awarded with NBA rookie of the year. He is a father of three amazing kids.One girl and two boys. Bronny James(the oldest child) is a basketball player falling his dads footsteps. Bryce is also playing Basketball at just 11 years old.The youngest Zhuri doesnt know yet. Lebron James is Set to be one of greatest baskeball players next to Michael Jordan. 
+                  </p>
+                </div>
+                <div>
+                  <!-- Timeline heading; use <h3>  -->
+                  <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+                    <h3 class="text-center"> The History of LeBron James Career</h3>
+                    <!-- create a timeline using an unordered list -->
+
+                    <ul>
+
+                      <li><strong>- June 26, 2003</strong> — The Cleveland Cavaliers select James with the first pick in the 2003 NBA Draft.</li>
+
+                      <li><strong>- April 21, 2004</strong> — James wins the Rookie of the Year Award after posting averages of 20.9 points, 5.9 assists and 5.5 rebounds per game.</li>
+
+                      <li><strong>- Feb. 20, 2005</strong> — James plays in his first NBA All-Star Game after being selected among the Eastern Conference starters. He finished with 13 points, 8 rebounds and 6 assists.</li>
+
+                      <li><strong>- May 18, 2005</strong> — After finishing with averages of 31.4 points and 7.0 rebounds per games, James is selected to the All-NBA first team for the first time in his career.</li>
+
+                      <li><strong>- June 2, 2007</strong> — James leads Cleveland to its first NBA Finals. The Spurs sweep the Cavaliers in four games.</li>
+
+                      <li><strong>- May 6, 2009</strong> — James wins his first NBA MVP Award after averaging 30.0 points, 7.9 rebounds and 7.2 assists per game.</li>
+
+                      <li><strong>- July 8, 2010</strong> — James announces he will join the Miami Heat in a televised event on ESPN called “The Decision.”</li>
+
+                      <li><strong>- May 11, 2012</strong> — James wins his third NBA MVP Award with averages of 27.1 points, 7.9 rebounds and 6.2 assists per game.</li>
+
+                      <li>- June 21, 2012 — The Heat win their second NBA title and first for James by defeating the Oklahoma City Thunder in five games.</li>
+
+                      <li><strong>- May 6, 2013</strong> — James wins his fourth NBA MVP Award after tallying 26.8 points, 8.0 rebounds and 7.3 assists per game.</li>
+
+                      <li><strong>- June 20, 2013</strong> — James wins his second NBA championship as the Heat beat the Spurs in a seven-game series.</li>
+
+                      <li><strong>- July 11, 2014</strong> — James announces his return to the Cleveland Cavaliers in free agency.</li>
+
+                      <li><strong>- June 19, 2016</strong>— After leading Cleveland back from 3-1 hole, James gives the Cavaliers their first NBA title by outlasting the Golden State Warriors in seven games.</li>
+
+                      <li><strong>- July 1, 2018</strong> — James agrees to a free-agent contract with the Los Angeles Lakers.</li>
+                    </ul>  
+
+
+
+
+                    <blockquote>
+                      <!-- use the <p> to display a famous quote from your hero -->
+
+                      <p><em>"Strive For Greatness"</p>
+                        <!-- don't forget the quoter's name here -->
+                      <footer><cite> -LeBron James    </cite></footer>
+                    </blockquote>
+                    <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+                    <h3> Vist this link to learn more! <a href="https://en.wikipedia.org/wiki/LeBron_James" target="_blank">LeBron's Wiki Page</h3>
+                      </div>
+                  </div>
+                </div>
+              </div>
+              <footer  class="text-center">
+                <!--  use the <hr> to create a horizontal line separating the footer section --> <hr>
+
+                <!--  using the <p>, take ownership of your page  -->
+                <p> Created By Jazmin Magallon</p>
+              </footer>
+            </div>
+            </body>
+          </html>
